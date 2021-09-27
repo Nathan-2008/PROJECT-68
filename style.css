@@ -1,0 +1,5 @@
+#menu{
+ shape-outside: circle();
+    position: static;
+    list-style: none;
+}
